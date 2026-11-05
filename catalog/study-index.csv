@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ljb01,Rain Glass,pack-local equal-tempered pitch collection,A,170,4/4,480,32,61440,midi/ljb01-rain-glass/ljb01-rain-glass-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ljb02,Water Line,pack-local equal-tempered pitch collection,C,170,4/4,480,32,61440,midi/ljb02-water-line/ljb02-water-line-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ljb03,Silver Leaf,pack-local equal-tempered pitch collection,D#,170,4/4,480,32,61440,midi/ljb03-silver-leaf/ljb03-silver-leaf-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ljb04,Current Return,pack-local equal-tempered pitch collection,A#,170,4/4,480,32,61440,midi/ljb04-current-return/ljb04-current-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

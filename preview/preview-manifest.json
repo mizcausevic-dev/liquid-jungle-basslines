@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/liquid-jungle-basslines-simple-synth-preview.mp3",
+  "preview_sha256": "74679458f8718e35582689ce5445a9f0e4b710da27df996bfa9a224201bf4ecf",
+  "source_midi_path": "midi/ljb01-rain-glass/ljb01-rain-glass-combined.mid",
+  "source_midi_sha256": "6a616078cddf85dbb2941d64fc12533be93e26fd0869e914d55efa7074cbb38b",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "ljb01",
+    "start_seconds": 0,
+    "end_seconds": 45.176
+  },
+  "measurement": {
+    "sample_peak": 0.102415,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

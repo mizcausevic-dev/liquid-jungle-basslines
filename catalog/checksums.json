@@ -54,7 +54,7 @@
     {
       "path": "catalog/clip-index.csv",
       "bytes": 1948,
-      "sha256": "7d5868c4227e3587965a4a3e82c63af9209de226b766b18c5e95a45ef12462cb"
+      "sha256": "7d0df994afb1647cef731cb1fd19d3adf06707db92e97ee81801e98b7c287402"
     },
     {
       "path": "catalog/drum-map.csv",
@@ -113,83 +113,83 @@
     },
     {
       "path": "clips/ljb01-bass-hook-01.mid",
-      "bytes": 183,
-      "sha256": "9f6dfa0c85a394f14bd1030129677c208881ed0b4bf1ba78bc89f90be73b675b"
+      "bytes": 173,
+      "sha256": "7f05b3f2ae45af8f9616bc878f5b1b94f8dabc04a01f82d8786f0ccd38f1459f"
     },
     {
       "path": "clips/ljb01-bass-hook-02.mid",
-      "bytes": 183,
-      "sha256": "78df6b5c3075c1727c49c4c4ac875feb04d3fb035ca353cdbb50144568662f75"
+      "bytes": 174,
+      "sha256": "43e4b8868a0a9a89261be8654de01bfb8f1c7d445a4ff78e24ea6c264bd6ddf9"
     },
     {
       "path": "clips/ljb01-bass-hook-03.mid",
-      "bytes": 183,
-      "sha256": "52675b63047371343e58693ee4a52c8601e47a66b0fd955f15fb9e984c12e2b0"
+      "bytes": 174,
+      "sha256": "6724a4752b4016440484ee665f6f00d7175ea6588f3019a24d270da794c20354"
     },
     {
       "path": "clips/ljb01-bass-hook-04.mid",
-      "bytes": 183,
-      "sha256": "9304bb992dd5c99ec439097a5d716784bf41d378f39ad0e263a1d310e422dbb5"
+      "bytes": 173,
+      "sha256": "08ade8fc14ddac5e5a6e67084c6f799223412e28b06f70be790cc3a7aca54b66"
     },
     {
       "path": "clips/ljb02-bass-hook-01.mid",
       "bytes": 173,
-      "sha256": "9fe12eb1afa39f4ef94d0059f2aea431a36700317dd14bebc1cb1797bee4d295"
+      "sha256": "d8ae644338c12ca5d45af01ed8ad01657f67377e832bc73d781c73d0cf546cec"
     },
     {
       "path": "clips/ljb02-bass-hook-02.mid",
-      "bytes": 173,
-      "sha256": "209587dd7389cf3c63ee2298d644ea7c0a4b462781253549dac157ef14159844"
+      "bytes": 174,
+      "sha256": "6d1364ab8f48667c1a0e7943c54e33b5457991cb72098020a89689c0bfa1bf86"
     },
     {
       "path": "clips/ljb02-bass-hook-03.mid",
-      "bytes": 173,
-      "sha256": "e2330985506c8eaeb72a577c75b807478bcd3c90185536295f9d9e7604d5d4a6"
+      "bytes": 174,
+      "sha256": "ec60a6e7223a0e3db4b1ce6d86f8f645527ff5a9e73defd87fec8fe989a56c0f"
     },
     {
       "path": "clips/ljb02-bass-hook-04.mid",
       "bytes": 173,
-      "sha256": "55376ff9d6eadd1419649de06064092127d73e346288b6529883c688c02a119f"
+      "sha256": "e3257c0d1a3f484f649b6bcd9006b5f4b96abb215a5979a0bce7609123c5e5cd"
     },
     {
       "path": "clips/ljb03-bass-hook-01.mid",
       "bytes": 173,
-      "sha256": "8460c37d995568612115b0162a1f77d9c229eb11a7a41dec131faebd784fa250"
+      "sha256": "e8f583c18a713bb995ec54202ec796136bb0a9442b28013cc65cb5540c2787f5"
     },
     {
       "path": "clips/ljb03-bass-hook-02.mid",
-      "bytes": 173,
-      "sha256": "478b893b1ddecfe6dee0802011a9e7a37948cecbc884b420a386c6eb472fe58d"
+      "bytes": 174,
+      "sha256": "cbf91145593e7d93024fe259b2f28475e4b73f326e2d5b1f05abc5f6f1df7185"
     },
     {
       "path": "clips/ljb03-bass-hook-03.mid",
-      "bytes": 173,
-      "sha256": "b389374c1bf8910686d4fc87081591c4ebb889c1a5158cec207e9eb5cab7c98f"
+      "bytes": 174,
+      "sha256": "7f3863fd83c7b09a46f07f056eb7411c801b2184534494115d09b99e1b8425c9"
     },
     {
       "path": "clips/ljb03-bass-hook-04.mid",
       "bytes": 173,
-      "sha256": "6125cdf1f2e5e2c7b0731a16760edc6274ebb2c49fc071af9890cb5334f3a168"
+      "sha256": "a0eb6a056f2b81d8f991c15c20e3c33b882de04d6afc8ef51a3fc5bd07770316"
     },
     {
       "path": "clips/ljb04-bass-hook-01.mid",
       "bytes": 173,
-      "sha256": "bd36229a62f97a40b34884452a438488b467df810d8bc4d7c94c59d7de353737"
+      "sha256": "60b2cbfaa59ac64262c0b7727f02057529fbbc48862b3703b0ad6a2e8d4b1665"
     },
     {
       "path": "clips/ljb04-bass-hook-02.mid",
-      "bytes": 173,
-      "sha256": "3d6cfb06ec58cc64b3a901ba9c50d9a31ea67119eb0666261642d1050a9ce4b6"
+      "bytes": 174,
+      "sha256": "bbaa5979d4a39df6af4e085e82d1d6f9771dcca6bb8e4e02e6505ad241571d94"
     },
     {
       "path": "clips/ljb04-bass-hook-03.mid",
-      "bytes": 173,
-      "sha256": "4c05a1796ea9fdba259a171b6a26791196e387a978a4d95551b1f939f4823220"
+      "bytes": 174,
+      "sha256": "a553eb457fab3697c96af3348ef185d35b6ea7dec3edf240bb263df5d78e9e6f"
     },
     {
       "path": "clips/ljb04-bass-hook-04.mid",
       "bytes": 173,
-      "sha256": "47e02282ae9dae94adcc2814c3a502ef06d19403a9d2e9a1a83e8a1456b3de8b"
+      "sha256": "d31d47002ad10ce0169fbbb0955d9609cf99805ffa15c1de4048cc642f292a46"
     },
     {
       "path": "delivery.md",
@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/liquid-jungle-basslines-midi.zip",
-      "bytes": 30103,
-      "sha256": "014da9095576959891043b13693cc22cd54cc29c7f3eb4bcc6d92e83736e4940"
+      "bytes": 32293,
+      "sha256": "e64968cc018fd595694fc1acd289338b156e8933d84bd44c2e7ebbd8b3437af3"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9541,
-      "sha256": "1eb59d6a61470df04fc1dfca7b71198ca3d2d159e397e5f04df7b0f736f3792e"
+      "bytes": 9784,
+      "sha256": "563b3183c4b84423c16d3805ebe4a89a039f73e30f14f499771208b436747c54"
     },
     {
       "path": "midi/ljb01-rain-glass/chord_pulse.mid",
@@ -388,8 +388,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3905,
-      "sha256": "5ac6cf0f134f9b4cd57863645d56deb50beac3c3b3fc5025ddde01799b61b7ec"
+      "bytes": 4064,
+      "sha256": "c39fb7572cc62a5e86e1e582be5de0850d2701f3d6be9302f868cd28242e1012"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 341,
+      "sha256": "44bac0d924993a7ab4ed8c6caea17fdbb2d9d1f372aa79f74259b746a088fffb"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -433,8 +438,8 @@
     },
     {
       "path": "tools/produce_clips.py",
-      "bytes": 9970,
-      "sha256": "fc8fe3d62f945b394914fb24806a9e8e3ef10530be3b52dcaba3dbb620f4c5e1"
+      "bytes": 10732,
+      "sha256": "4166830359e4448c9957da0641f4e454477e3044f3ae9138645e92e1823dee40"
     },
     {
       "path": "tools/render_motion_preview.py",

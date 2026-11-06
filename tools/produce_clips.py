@@ -80,6 +80,15 @@ def main():
                             local = offset + shift
                             if local < END:
                                 notes.append((local, min(duration, END-local), pitch + (12 if rank < inversion else 0), min(127, velocity + variation * 2)))
+                elif kind == "sub_bass" and args.pack == "liquid-jungle-basslines":
+                    # Four related but distinct syncopated bass answers per study.
+                    cells = ((0, 960, 1560), (360, 1200), (240, 840, 1440), (0, 600, 1260))
+                    for bar in range(4):
+                        root_pitch = study["bass"][(bar + study_index) % 4]
+                        for j, offset in enumerate(cells[(bar + variation) % 4]):
+                            pitch = root_pitch + (12 if (bar + j + variation) % 5 == 0 else 0)
+                            duration = (180, 240, 150, 210)[(bar + j + variation) % 4]
+                            notes.append((bar*release.BAR_TICKS + offset, duration, pitch, 74 + 5*((bar+j+variation)%4)))
                 else:
                     start = (8 + variation*4) * release.BAR_TICKS
                     for event in score[kind]:

@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/liquid-jungle-basslines-midi.zip",
-      "bytes": 32293,
-      "sha256": "e64968cc018fd595694fc1acd289338b156e8933d84bd44c2e7ebbd8b3437af3"
+      "bytes": 33280,
+      "sha256": "b34a448aead1bd909b6718a4d87507364d1c17e47a7fc592ab432f90084c30db"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9784,
-      "sha256": "563b3183c4b84423c16d3805ebe4a89a039f73e30f14f499771208b436747c54"
+      "bytes": 9974,
+      "sha256": "4e94d934f2b70b27d52d0c683fcc4a6468869030ce09375732672f166f831919"
     },
     {
       "path": "midi/ljb01-rain-glass/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "2553511a866236eea29ab7a0a9dc8d557535dd005062d12c36f3b166aac211bf"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/liquid-jungle-basslines-simple-synth-preview.mp3",
       "bytes": 1097813,
       "sha256": "74679458f8718e35582689ce5445a9f0e4b710da27df996bfa9a224201bf4ecf"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4064,
-      "sha256": "c39fb7572cc62a5e86e1e582be5de0850d2701f3d6be9302f868cd28242e1012"
+      "bytes": 4179,
+      "sha256": "8c013a041d27bb7437e93543e0b442108c579904a7ad9373cc72a3aeba60d7d7"
     },
     {
       "path": "REVISION.md",
